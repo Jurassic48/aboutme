@@ -17,7 +17,7 @@ I've been immersed in Web3 for 2.5 years, deeply involved in the crypto space in
 
 ### Testnet Explorer 🔍
 - Actively participated in testnets on both Rollups and Layer 1 blockchains.
-- Valuable experience on networks like Aptos, Sui, Avalanche, and Kiln Testnet.
+- Valuable experience on networks like Aptos, Sui, Avalanche, and Kiln.
 
 ### Early Adopter & Tester 🚀
 - Pioneered the adoption of cutting-edge technologies and projects.
