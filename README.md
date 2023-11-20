@@ -3,7 +3,7 @@
 ![Header Image](link-to-header-image.png)
 
 ## About Me
-I've been immersed in Web3 for 2.5 years, deeply involved in the crypto space in various capacities. As a node-runner, I've supported over 10 nodes (StarkNet, Aptos, Minima, KYVE, Forta, etc.). Additionally, I've authored smart contracts on several Layer 2 solutions like StarkNet and Arbitrum. My involvement extends to participating in testnets on Rollups or Layer 1 blockchains such as Aptos, Sui, Avalanche, Kiln Testnet. Lastly, I've been an early adopter and tester for a multitude of projects.
+I've been immersed in Web3 for 2.5 years, deeply involved in the crypto space in various capacities. As a node-runner, I've supported over 10 nodes (StarkNet, Aptos, KYVE, Forta, etc.). Additionally, I've authored smart contracts on several Layer 2 solutions like StarkNet and Arbitrum. My involvement extends to participating in testnets on Rollups or Layer 1 blockchains such as Aptos, Sui, Avalanche, Kiln Testnet. Lastly, I've been an early adopter and tester for a multitude of projects.
 
 ## Crypto Journey
 
